@@ -1,0 +1,26 @@
+name: Dark-Web-Links-2024
+
+on:
+  schedule:
+    - cron: '*/1 * * * *'  # Runs every minute
+
+jobs:
+  Dark-Websites-2024:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      
+      - name: Delete Dark-Websites-2024.txt
+        run: |
+          rm -f Dark-Websites-2024.txt
+          ls -l  # For debugging purposes, list files in the directory to check if Dark-Websites-2024.txt is deleted
+          
+      - name: Commit and push changes
+        run: |
+          git config --global user.email "EliasHawthorne297@hotmail.com"
+          git config --global user.name "Elishaworne"
+          git add -A  # Add all changes, including the deletion of Dark-Websites-2024.txt
+          git commit -m "Dark-Websites-2024.txt" || echo "No changes to commit"
+          git push
