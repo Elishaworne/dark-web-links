@@ -14,22 +14,22 @@
 
 </small>
 
-## Contents
+## 🕵️‍♂️ Contents
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 
 <!-- code_chunk_output -->
 
-  - [Ahmia](#Ahmia)
-  - [CashCow](#CashCow)
-  - [CashMachine](#CashMachine)
-  - [DuckDuckGo](#DuckDuckGo)
-  - [Fish'n'Pal](#Fish'n'Pal)
-  - [OnionLinks](#OnionLinks)
-  - [PremiumCards](#PremiumCards)
-  - [TheGreenMachine](#TheGreenMachine)
-  - [USJUD](#USJUD)
-  - [TheHiddenWiki](#TheHiddenWiki)
+  - [🔍 Ahmia](#ahmia)
+  - [🐄 CashCow](#cashcow)
+  - [💰 CashMachine](#cashmachine)
+  - [🦆 DuckDuckGo](#duckduckgo)
+  - [🎣 Fish'n'Pal](#fishnpal)
+  - [🔗 OnionLinks](#onionlinks)
+  - [💳 PremiumCards](#premiumcards)
+  - [🌿 TheGreenMachine](#thegreenmachine)
+  - [⚖️ USJUD](#usjud)
+  - [📚 TheHiddenWiki](#thehiddenwiki)
 
 <!-- /code_chunk_output -->
 
@@ -37,60 +37,61 @@
 
 - [Ahmia](http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion) - `http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion`
 
-<a href="http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion"><img src="https://github.com/Elishaworne/dark-web-links/blob/main/Dark%20Web%20Links/Ahmia.png"><a>
+![Ahmia](https://github.com/Elishaworne/dark-web-links/blob/main/Dark%20Web%20Links/Ahmia.png)
 
 ## CashCow
 
 - [CashCow](http://hssza6r6fbui4x452ayv3dkeynvjlkzllezxf3aizxppmcfmz2mg7uad.onion) - `http://hssza6r6fbui4x452ayv3dkeynvjlkzllezxf3aizxppmcfmz2mg7uad.onion`
 
-<a href="http://hssza6r6fbui4x452ayv3dkeynvjlkzllezxf3aizxppmcfmz2mg7uad.onion"><img src="https://github.com/Elishaworne/dark-web-links/blob/main/Dark%20Web%20Links/Cash%20Cow.png"><a>
+![CashCow](https://github.com/Elishaworne/dark-web-links/blob/main/Dark%20Web%20Links/Cash%20Cow.png)
 
 ## CashMachine
 
 - [CashMachine](http://n3irlpzwkcmfochhuswpcrg35z7bzqtaoffqecomrx57n3rd5jc72byd.onion) - `http://n3irlpzwkcmfochhuswpcrg35z7bzqtaoffqecomrx57n3rd5jc72byd.onion`
 
-<a href="http://n3irlpzwkcmfochhuswpcrg35z7bzqtaoffqecomrx57n3rd5jc72byd.onion"><img src="https://github.com/Elishaworne/dark-web-links/blob/main/Dark%20Web%20Links/CashMachine.png"><a>
+![CashMachine](https://github.com/Elishaworne/dark-web-links/blob/main/Dark%20Web%20Links/CashMachine.png)
 
 ## DuckDuckGo
 
 - [DuckDuckGo](http://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion) - `http://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion`
 
-<a href="http://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion"><img src="https://github.com/Elishaworne/dark-web-links/blob/main/Dark%20Web%20Links/DuckDuckGo.png"><a>
+![DuckDuckGo](https://github.com/Elishaworne/dark-web-links/blob/main/Dark%20Web%20Links/DuckDuckGo.png)
 
 ## Fish'n'Pal
 
 - [Fish'n'Pal](http://56dlutemceny6ncaxolpn6lety2cqfz5fd64nx4ohevj4a7ricixwzad.onion) - `http://56dlutemceny6ncaxolpn6lety2cqfz5fd64nx4ohevj4a7ricixwzad.onion`
 
-<a href="http://56dlutemceny6ncaxolpn6lety2cqfz5fd64nx4ohevj4a7ricixwzad.onion"><img src="https://github.com/Elishaworne/dark-web-links/blob/main/Dark%20Web%20Links/Fish'n'Pal.png"><a>
+![Fish'n'Pal](https://github.com/Elishaworne/dark-web-links/blob/main/Dark%20Web%20Links/Fish'n'Pal.png)
 
 ## OnionLinks
 
 - [OnionLinks](http://jaz45aabn5vkemy4jkg4mi4syheisqn2wn2n4fsuitpccdackjwxplad.onion) - `http://jaz45aabn5vkemy4jkg4mi4syheisqn2wn2n4fsuitpccdackjwxplad.onion`
 
-<a href="http://jaz45aabn5vkemy4jkg4mi4syheisqn2wn2n4fsuitpccdackjwxplad.onion"><img src="https://github.com/Elishaworne/dark-web-links/blob/main/Dark%20Web%20Links/OnionLinks.png"><a>
+![OnionLinks](https://github.com/Elishaworne/dark-web-links/blob/main/Dark%20Web%20Links/OnionLinks.png)
 
 ## PremiumCards
+
 - [PremiumCards](http://hbl6udan73w7qbjdey6chsu5gq5ehrfqbb73jq726kj3khnev2yarlid.onion) - `http://hbl6udan73w7qbjdey6chsu5gq5ehrfqbb73jq726kj3khnev2yarlid.onion`
 
-<a href="http://hbl6udan73w7qbjdey6chsu5gq5ehrfqbb73jq726kj3khnev2yarlid.onion"><img src="https://github.com/Elishaworne/dark-web-links/blob/main/Dark%20Web%20Links/Premium%20cards.png"><a>
+![PremiumCards](https://github.com/Elishaworne/dark-web-links/blob/main/Dark%20Web%20Links/Premium%20cards.png)
 
 ## TheGreenMachine
 
-- [PremiumCards](http://vw5vzi62xqhihghvonatid7imut2rkgiudl3xomj4jftlmanuwh4r2qd.onion) - `http://vw5vzi62xqhihghvonatid7imut2rkgiudl3xomj4jftlmanuwh4r2qd.onion`
+- [TheGreenMachine](http://vw5vzi62xqhihghvonatid7imut2rkgiudl3xomj4jftlmanuwh4r2qd.onion) - `http://vw5vzi62xqhihghvonatid7imut2rkgiudl3xomj4jftlmanuwh4r2qd.onion`
 
-<a href="http://vw5vzi62xqhihghvonatid7imut2rkgiudl3xomj4jftlmanuwh4r2qd.onion"><img src="https://github.com/Elishaworne/dark-web-links/blob/main/Dark%20Web%20Links/The%20Green%20Machine.png"><a>
+![TheGreenMachine](https://github.com/Elishaworne/dark-web-links/blob/main/Dark%20Web%20Links/The%20Green%20Machine.png)
 
 ## USJUD
 
 - [USJUD](http://usjud6uoc5gxmrfyuid4hm3e2slisucbwwnviiltyvdp5pma2xsr7aad.onion) - `http://usjud6uoc5gxmrfyuid4hm3e2slisucbwwnviiltyvdp5pma2xsr7aad.onion`
 
-<a href="http://usjud6uoc5gxmrfyuid4hm3e2slisucbwwnviiltyvdp5pma2xsr7aad.onion"><img src="https://github.com/Elishaworne/dark-web-links/blob/main/Dark%20Web%20Links/USJUD.png"><a>
+![USJUD](https://github.com/Elishaworne/dark-web-links/blob/main/Dark%20Web%20Links/USJUD.png)
 
 ## TheHiddenWiki
 
 - [TheHiddenWiki](http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/index.php/Main_Page) - `http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/index.php/Main_Page`
 
-<a href="http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/index.php/Main_Page"><img src="https://github.com/Elishaworne/dark-web-links/blob/main/Dark%20Web%20Links/the%20hidden%20wiki.png"><a>
+![TheHiddenWiki](https://github.com/Elishaworne/dark-web-links/blob/main/Dark%20Web%20Links/the%20hidden%20wiki.png)
 
 ## Exploring the Freshest Dark Web Links of 2024
 
