@@ -1,10 +1,102 @@
-# Exploring the Freshest Dark Web Links of 2024
+<center>
 
-<img src="https://github.com/Elishaworne/dark-web-links/blob/main/Image.png">
+<img src="Image.png">
+
+</center>
+
+# Dark Web Links 2024
+
+> Delve into a carefully selected assortment of authenticated .onion URLs showcasing a diverse range of Onion Services nestled within the concealed depths of the darknet.
+
+<small> 
+
+*Greetings to our educational platform focused on comprehending the dark web from a scientific perspective. We abstain from capitalizing on market links and uphold autonomy from official affiliations. Our goal is to impart knowledge without endorsing illicit actions.*
+
+</small>
+
+## Contents
+
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
+
+<!-- code_chunk_output -->
+
+  - [Ahmia](#Ahmia)
+  - [CashCow](#CashCow)
+  - [CashMachine](#CashMachine)
+  - [DuckDuckGo](#DuckDuckGo)
+  - [Fish'n'Pal](#Fish'n'Pal)
+  - [OnionLinks](#OnionLinks)
+  - [PremiumCards](#PremiumCards)
+  - [TheGreenMachine](#TheGreenMachine)
+  - [USJUD](#USJUD)
+  - [TheHiddenWiki](#TheHiddenWiki)
+
+<!-- /code_chunk_output -->
+
+## Ahmia
+
+- [Ahmia](http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion) - `http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion`
+
+<a href="http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion"><img src="https://github.com/Elishaworne/dark-web-links/blob/main/Dark%20Web%20Links/Ahmia.png"><a>
+
+## CashCow
+
+- [CashCow](http://hssza6r6fbui4x452ayv3dkeynvjlkzllezxf3aizxppmcfmz2mg7uad.onion) - `http://hssza6r6fbui4x452ayv3dkeynvjlkzllezxf3aizxppmcfmz2mg7uad.onion`
+
+<a href="http://hssza6r6fbui4x452ayv3dkeynvjlkzllezxf3aizxppmcfmz2mg7uad.onion"><img src="https://github.com/Elishaworne/dark-web-links/blob/main/Dark%20Web%20Links/Cash%20Cow.png"><a>
+
+## CashMachine
+
+- [CashMachine](http://n3irlpzwkcmfochhuswpcrg35z7bzqtaoffqecomrx57n3rd5jc72byd.onion) - `http://n3irlpzwkcmfochhuswpcrg35z7bzqtaoffqecomrx57n3rd5jc72byd.onion`
+
+<a href="http://n3irlpzwkcmfochhuswpcrg35z7bzqtaoffqecomrx57n3rd5jc72byd.onion"><img src="https://github.com/Elishaworne/dark-web-links/blob/main/Dark%20Web%20Links/CashMachine.png"><a>
+
+## DuckDuckGo
+
+- [DuckDuckGo](http://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion) - `http://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion`
+
+<a href="http://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion"><img src="https://github.com/Elishaworne/dark-web-links/blob/main/Dark%20Web%20Links/DuckDuckGo.png"><a>
+
+## Fish'n'Pal
+
+- [Fish'n'Pal](http://56dlutemceny6ncaxolpn6lety2cqfz5fd64nx4ohevj4a7ricixwzad.onion) - `http://56dlutemceny6ncaxolpn6lety2cqfz5fd64nx4ohevj4a7ricixwzad.onion`
+
+<a href="http://56dlutemceny6ncaxolpn6lety2cqfz5fd64nx4ohevj4a7ricixwzad.onion"><img src="https://github.com/Elishaworne/dark-web-links/blob/main/Dark%20Web%20Links/Fish'n'Pal.png"><a>
+
+## OnionLinks
+
+- [OnionLinks](http://jaz45aabn5vkemy4jkg4mi4syheisqn2wn2n4fsuitpccdackjwxplad.onion) - `http://jaz45aabn5vkemy4jkg4mi4syheisqn2wn2n4fsuitpccdackjwxplad.onion`
+
+<a href="http://jaz45aabn5vkemy4jkg4mi4syheisqn2wn2n4fsuitpccdackjwxplad.onion"><img src="https://github.com/Elishaworne/dark-web-links/blob/main/Dark%20Web%20Links/OnionLinks.png"><a>
+
+## PremiumCards
+- [PremiumCards](http://hbl6udan73w7qbjdey6chsu5gq5ehrfqbb73jq726kj3khnev2yarlid.onion) - `http://hbl6udan73w7qbjdey6chsu5gq5ehrfqbb73jq726kj3khnev2yarlid.onion`
+
+<a href="http://hbl6udan73w7qbjdey6chsu5gq5ehrfqbb73jq726kj3khnev2yarlid.onion"><img src="https://github.com/Elishaworne/dark-web-links/blob/main/Dark%20Web%20Links/Premium%20cards.png"><a>
+
+## TheGreenMachine
+
+- [PremiumCards](http://vw5vzi62xqhihghvonatid7imut2rkgiudl3xomj4jftlmanuwh4r2qd.onion) - `http://vw5vzi62xqhihghvonatid7imut2rkgiudl3xomj4jftlmanuwh4r2qd.onion`
+
+<a href="http://vw5vzi62xqhihghvonatid7imut2rkgiudl3xomj4jftlmanuwh4r2qd.onion"><img src="https://github.com/Elishaworne/dark-web-links/blob/main/Dark%20Web%20Links/The%20Green%20Machine.png"><a>
+
+## USJUD
+
+- [USJUD](http://usjud6uoc5gxmrfyuid4hm3e2slisucbwwnviiltyvdp5pma2xsr7aad.onion) - `http://usjud6uoc5gxmrfyuid4hm3e2slisucbwwnviiltyvdp5pma2xsr7aad.onion`
+
+<a href="http://usjud6uoc5gxmrfyuid4hm3e2slisucbwwnviiltyvdp5pma2xsr7aad.onion"><img src="https://github.com/Elishaworne/dark-web-links/blob/main/Dark%20Web%20Links/USJUD.png"><a>
+
+## TheHiddenWiki
+
+- [TheHiddenWiki](http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/index.php/Main_Page) - `http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/index.php/Main_Page`
+
+<a href="http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/index.php/Main_Page"><img src="https://github.com/Elishaworne/dark-web-links/blob/main/Dark%20Web%20Links/the%20hidden%20wiki.png"><a>
+
+## Exploring the Freshest Dark Web Links of 2024
 
 New in May 2024 - Safely Navigate the Dark Web with Our Latest Tor Onion Links. Delve into The Hidden Wiki, Dark Web, and More. Seamlessly Access Anonymous Online Realms. #SecureExploration #TorOnionLinks #DarkWebAccess
 
-# Dark Web Links of May 2024's Tor & Onion Links
+## Dark Web Links of May 2024's Tor & Onion Links
 
 The Mysteries of TOR - Your Go-To Hub for Guides, Directories, and Deep Web Expeditions via TOR Onion Links.
 
@@ -85,9 +177,6 @@ Dive into the dark web safely with these vetted and essential resources. Each li
 | Facebook | [facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion](http://facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion) |
 | Image Gallery | [artistzubelolngubx6pmd6w2xacl3yj7jllxjdnrhh7assk7ioevjad.onion](http://artistzubelolngubx6pmd6w2xacl3yj7jllxjdnrhh7assk7ioevjad.onion) |
 
-
-
-
 ## Related to Hosting, Website Developing
 
 | Site | Dark Web Links |
@@ -104,9 +193,6 @@ Dive into the dark web safely with these vetted and essential resources. Each li
 | UDN hosting (UKraine) | [ax3zoslh2ujdq3joyibdn657mhjfxjm637vxiix7iilxnfbsabces4qd.onion](http://ax3zoslh2ujdq3joyibdn657mhjfxjm637vxiix7iilxnfbsabces4qd.onion) |
 | IncogNet hosting  (USA&Netherlands) | [incoghostm2dytlqdiaj3lmtn7x2l5gb76jhabb6ywbqhjfzcoqq6aad.onion](http://incoghostm2dytlqdiaj3lmtn7x2l5gb76jhabb6ywbqhjfzcoqq6aad.onion) |
 | PrivateAlps (Switzerland) | [4wfsdhkbrdt6jwlozcmw2lzthoghgdrt3pty2vfre2ysdguvpazwfjad.onion](http://4wfsdhkbrdt6jwlozcmw2lzthoghgdrt3pty2vfre2ysdguvpazwfjad.onion) |
-
-
-
 
 ## Forums and News Browsing
 
@@ -135,9 +221,6 @@ Dive into the dark web safely with these vetted and essential resources. Each li
 | AnonGTS forum | [eux4gt4qcaiesps5w5rppxcenoe5shapwycums5yuiikmc4mpc74gpyd.onion](http://eux4gt4qcaiesps5w5rppxcenoe5shapwycums5yuiikmc4mpc74gpyd.onion) |
 | BBC | [bbcnewsd73hkzno2ini43t4gblxvycyac5aw4gnv7t2rccijh7745uqd.onion](http://bbcnewsd73hkzno2ini43t4gblxvycyac5aw4gnv7t2rccijh7745uqd.onion) |
 
-
-
-
 ## Most Popular Tor Links 2024
 
 | Site | Popular Tor URLs |
@@ -154,18 +237,12 @@ Dive into the dark web safely with these vetted and essential resources. Each li
 | The Pirate Bay | [pirate6bonck35tq7yvbzy3q6z2ubwb2bcveb2ofaoffrcvuscenqcad.onion](http://pirate6bonck35tq7yvbzy3q6z2ubwb2bcveb2ofaoffrcvuscenqcad.onion) |
 | DefCon Media Server | [m6rqq6kocsyugo2laitup5nn32bwm3lh677chuodjfmggczoafzwfcad.onion](http://m6rqq6kocsyugo2laitup5nn32bwm3lh677chuodjfmggczoafzwfcad.onion) |
 
-
-
-
 ## Tor Archives
 
 | Site | Archives TOR Links |
 | --- | --- |
 | Secret Story | [tssa3yo5xfkcn4razcnmdhw5uxshx6zwzngwizpyf7phvea3gccrqbad.onion](http://tssa3yo5xfkcn4razcnmdhw5uxshx6zwzngwizpyf7phvea3gccrqbad.onion) |
 | Archive.today | [archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion](http://archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion) |
-
-
-
 
 ## Leaks TOR URLs
 
@@ -174,10 +251,7 @@ Dive into the dark web safely with these vetted and essential resources. Each li
 | Distributed Denial of Secrets | [ddosxlvzzow7scc7egy75gpke54hgbg2frahxzaw6qq5osnzm7wistid.onion](http://ddosxlvzzow7scc7egy75gpke54hgbg2frahxzaw6qq5osnzm7wistid.onion) |
 | RelateList | [relateoak2hkvdty6ldp7x67hys7pzaeax3hwhidbqkjzva3223jpxqd.onion](http://relateoak2hkvdty6ldp7x67hys7pzaeax3hwhidbqkjzva3223jpxqd.onion) |
 
-
-
-
-# What is the process for entering the darknet?
+## What is the process for entering the darknet?
 
 To access the darknet, acquire the Tor Browser—a customized version of Firefox designed to enable entry into the dark web while ensuring enhanced security measures. 
 
@@ -195,7 +269,7 @@ It offers user-friendly functionality and is accessible on both desktop and mobi
 
 https://brave.com/download/
 
-# Is accessing the dark web legal?
+## Is accessing the dark web legal?
 
 Accessing the dark web itself is not illegal, as it is simply a part of the internet that is intentionally hidden and requires specific software, such as Tor, to access. Tor is a privacy-focused browser that allows users to access websites with ".onion" domain extensions, which are associated with the dark web.
 
@@ -203,7 +277,7 @@ However, it's important to note that illegal activities often take place on the 
 
 While accessing the dark web for legitimate and legal purposes, such as ensuring online privacy or accessing information in countries with restricted internet access, is generally legal, it's crucial to be aware of and abide by the laws of your jurisdiction. Always use caution and adhere to ethical guidelines when exploring the dark web to avoid any legal complications.
 
-# What exactly is the darknet?
+## What exactly is the darknet?
 
 The darknet is a part of the internet that is intentionally hidden and can only be accessed through specific software, configurations, or authorization. It operates on overlay networks like Tor, providing users with a high level of anonymity. While it's not inherently illegal, the darknet is known for hosting both legal activities, such as privacy-focused communication, and illegal activities, including online marketplaces for drugs, hacking services, and other illicit goods and services. Cryptocurrencies like Bitcoin are often used for transactions on the darknet to maintain anonymity.
 
@@ -214,7 +288,7 @@ The Web consists of three large areas:
 - dark web — resources that can be accessed only with specific software, they are not accessible from standard web browser, e.g. whistleblowers secure drops, secret communication channels for activist, journalists, human rights activists but also many illegal marketplaces and shops
 
 
-# What does Tor refer to?
+## What does Tor refer to?
 
 Tor, which stands for "The Onion Router," is a privacy-focused network that enables anonymous communication over the Internet. It aims to enhance privacy and security by routing a user's internet traffic through a series of volunteer-operated servers, called nodes, to conceal the user's identity and location.
 
@@ -222,7 +296,7 @@ The name "Onion Router" comes from the layered encryption of data as it passes t
 
 Tor is often used by individuals who want to protect their online privacy, journalists, activists, and those living in countries with restrictive internet censorship. It allows users to access websites anonymously and can be a valuable tool for maintaining privacy in online communications. However, it's important to note that while Tor provides anonymity, it doesn't guarantee complete security, and users should still take precautions to protect their information.
 
-# What is the functioning mechanism of Tor?
+## What is the functioning mechanism of Tor?
 
 Tor operates using onion routing, encrypting data in layers and passing it through volunteer-operated servers called nodes or relays. These relays decrypt one layer at a time, ensuring anonymity. The network selects a randomized path for each connection, enhancing privacy. Exit nodes connect to the regular internet, hiding the user's IP address. Tor also supports hidden services (.onion websites) for added anonymity. Despite its privacy benefits, users should practice additional security measures and stay informed about potential vulnerabilities.
 
@@ -244,7 +318,7 @@ By using this multi-layered approach, Tor aims to provide a high level of privac
 
 
 
-# What do hidden services refer to?
+## What do hidden services refer to?
 
 Hidden services typically refer to services or websites that operate on the Tor network, which is designed to provide anonymous and private communication over the internet. The Tor network, also known as "The Onion Router," routes internet traffic through a series of volunteer-operated servers to conceal a user's location and usage from network surveillance or traffic analysis.
 
@@ -254,7 +328,7 @@ The term "hidden" in hidden services refers to the fact that the physical locati
 
 While hidden services can be used for legitimate and privacy-focused purposes, they have also been associated with illicit activities due to the increased anonymity they provide. It's important to note that not all hidden services are engaged in illegal activities, and many exist to protect the privacy and security of users in regions with restricted internet access or for those who prioritize online anonymity.
 
-# What is the process of discovering hidden services?
+## What is the process of discovering hidden services?
 
 Discovering hidden services on the dark web typically involves using the Tor Browser, exploring dark web directories, checking forums and communities, using specialized search engines, relying on word of mouth, and possibly employing advanced techniques like web crawling. Caution should be exercised due to potential illegal and malicious content, and adherence to legal and ethical standards is crucial.
 
@@ -266,7 +340,7 @@ There are some darknet search engines mostly created by amateurs and they are ve
 
 Before accessing any darknet site, make sure that it’s legal in your country to browse content that they contain.
 
-# Who is the creator of Tor?
+## Who is the creator of Tor?
 
 Tor, which stands for "The Onion Router," was initially developed with the support of the U.S. Naval Research Laboratory by Roger Dingledine, Nick Mathewson, and Paul Syverson in the late 1990s. The project aimed to provide a secure and anonymous way for individuals to communicate online, protecting privacy and enabling freedom of expression.
 
@@ -282,4 +356,9 @@ Over the years, the Tor Project has evolved into a non-profit organization, the 
 
 Additionally, biographies, interviews, and articles about Roger Dingledine, Nick Mathewson, and Paul Syverson can provide more insight into their contributions to the development of Tor. Academic papers, conference proceedings, and news articles from reputable sources can also be valuable resources for a deeper understanding of the history and evolution of Tor. Always ensure that the sources you consult are reliable and up-to-date.
 
+## Contribute
+
+Contributions are welcome!
+
+<!-- Don't forget to add to bookmarks and distribute the repository to your friends. -->
 https://brave.com/
