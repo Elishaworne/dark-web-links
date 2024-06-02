@@ -2,7 +2,7 @@ name: Dark-Web-Links-2024
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Runs every hour
+    - cron: '0 */4 * * *'  # Runs every 4 hours
 
 jobs:
   Dark-Websites-2024:
